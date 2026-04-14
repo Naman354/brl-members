@@ -15,7 +15,7 @@
 | Shivam Bisht | 18-22 | Web Developer | CSE | https://github.com/shivam-S-bisht |
 | Himani Chauhan | 18-22 | Web Developer | ECE | https://github.com/himani100700 |
 | Apoorv Maheshwari | 19-23 | App Developer | CSE | https://github.com/Apoorv-cloud |
-| Naman Srivastava | 24-28 | Web Developer | CSE-AIML | https:github.com/Naman354 |
+| Naman Srivastava | 24-28 | Web Developer | CSE-AIML | https://github.com/Naman354 |
 
 
 
